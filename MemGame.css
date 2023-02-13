@@ -1,0 +1,15 @@
+#game div {
+  border: 2px solid black;
+  border-radius: 7px;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+body{
+  background-color: darkgrey;
+}
+h1,b{
+  display: flex;
+  justify-content: center;
+}
