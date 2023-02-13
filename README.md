@@ -1,2 +1,2 @@
 # Memory_Game
-This is a memoery game made by me using starter code for my course curriculum
+This is a memory game made by me using starter code for my course curriculum
